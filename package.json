@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/mechanicalhuman/dev-json-store.git"
   },
-  "scripts": { "test": "echo \"Error: no test specified\" && exit 1" },
+  "scripts": { "test": "echo \"Error: no test specified\" && exit 0" },
   "dependencies": {
     "conf": "^1.2.0",
     "config": "^1.26.2",
