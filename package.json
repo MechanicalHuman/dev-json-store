@@ -3,22 +3,32 @@
   "version": "0.0.0",
   "description": "Customized https://github.com/sindresorhus/conf providing Array management and defaulting to ./store instead of the user home directory ",
   "homepage": "https://github.com/mechanicalhuman/dev-json-store#readme",
-  "bugs": { "url": "https://github.com/mechanicalhuman/dev-json-store/issues" },
+  "bugs": {
+    "url": "https://github.com/mechanicalhuman/dev-json-store/issues"
+  },
   "license": "MIT",
   "author": "Jorge Proaño <jorge@hiddennodeproblem.com> (https://www.hidden-node-problem.com/)",
   "main": "lib/index.js",
-  "directories": { "lib": "lib" },
+  "directories": {
+    "lib": "lib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mechanicalhuman/dev-json-store.git"
   },
-  "scripts": { "test": "echo \"Error: no test specified\" && exit 0" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
   "dependencies": {
     "conf": "^1.2.0",
     "config": "^1.26.2",
     "debug": "^3.0.1",
     "lodash": "^4.17.4"
   },
-  "devDependencies": { "leasot": "^4.10.1" },
-  "publishConfig": { "access": "public" }
+  "devDependencies": {
+    "leasot": "^4.10.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
