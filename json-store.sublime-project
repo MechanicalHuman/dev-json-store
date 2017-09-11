@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "folder_exclude_patterns": [ "lib", "scripts" ],
+      "folder_include_patters": [],
+      "name": "JsonStore - Root",
+      "path": "."
+    },
+    {
+      "folder_exclude_patterns": [],
+      "name": "Library",
+      "path": "./lib"
+    },
+    { "name": "Scripts", "path": "scripts" },
+    { "name": "git", "path": ".git/hooks" }
+  ],
+  "settings": {}
+}
