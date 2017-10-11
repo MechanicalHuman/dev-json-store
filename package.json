@@ -1,6 +1,6 @@
 {
   "name": "@mechanicalhuman/json-store",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Customized https://github.com/sindresorhus/conf providing Array management and defaulting to ./store instead of the user home directory ",
   "homepage": "https://github.com/mechanicalhuman/dev-json-store#readme",
   "bugs": {
